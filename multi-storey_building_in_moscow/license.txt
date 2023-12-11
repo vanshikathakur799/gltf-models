@@ -1,0 +1,11 @@
+Model Information:
+* title:	Multi-storey building in Moscow
+* source:	https://sketchfab.com/3d-models/multi-storey-building-in-moscow-df74f11b75a94420bf1110a6909a62e9
+* author:	Medv3D (https://sketchfab.com/Medv3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Multi-storey building in Moscow" (https://sketchfab.com/3d-models/multi-storey-building-in-moscow-df74f11b75a94420bf1110a6909a62e9) by Medv3D (https://sketchfab.com/Medv3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
