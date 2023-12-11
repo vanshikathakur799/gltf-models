@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apartment Building
+* source:	https://sketchfab.com/3d-models/apartment-building-d8593d2bd7044e5f86725593eae36262
+* author:	knvi (https://sketchfab.com/knvi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apartment Building" (https://sketchfab.com/3d-models/apartment-building-d8593d2bd7044e5f86725593eae36262) by knvi (https://sketchfab.com/knvi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
